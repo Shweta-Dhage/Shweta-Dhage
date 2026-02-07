@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shweta-dhage&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-dhage&layout=compact)
-
----
-
 ## 📫 Contact Me
 📧 shwetadhage66@gmail.com  
 💼 https://www.linkedin.com/in/shweta-dhage-41039a2b6/
