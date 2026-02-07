@@ -45,8 +45,8 @@
 ---
 
 ### 🌱 Currently Learning
-- Backend with Node.js ░░░░░░ 40%  
-- Full-stack development ░░░░░░ 50%
+- Backend with Node.js 
+- Full-stack development
 
  
 
