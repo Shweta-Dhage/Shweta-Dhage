@@ -22,11 +22,6 @@
 
 ---
 
-## 📂 Featured Projects
-🚀 Full-stack web apps  
-📊 Java programming projects  
-⚡ Node.js backend applications  
-
 (Explore my repositories below 👇)
 
 ---
@@ -40,6 +35,7 @@
 ### 🌱 Currently Learning
 - Backend with Node.js 
 - Full-stack development
+- Java programming  
 
  
 
